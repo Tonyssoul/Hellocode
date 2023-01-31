@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmBKRDZZVR/b1SXa4iB8CMm5wLuYciCRMlmy9v/upeFE9YCogmp3HrDWU/X2Jjcb13t3LFBNWJMa5/0HPY+rfg==",
+  "dgSpecHash": "hyH76Jv5gKWL2cmaWuIzAtCourI/YJJUgGT4aCesfXoQK95c4zUoOYD4p+qdW/dJyOMls/6RFFnS22w+nxQUpg==",
   "success": true,
-  "projectFilePath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/example001_helloConsole.csproj",
+  "projectFilePath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

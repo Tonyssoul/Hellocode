@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/example001_helloConsole.csproj": {}
+    "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/example001_helloConsole.csproj": {
+    "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/example001_helloConsole.csproj",
-        "projectName": "example001_helloConsole",
-        "projectPath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/example001_helloConsole.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectName": "Example001_HelloConsole",
+        "projectPath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/Example001_HelloConsole.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/example001_helloConsole/obj/",
+        "outputPath": "/Users/mac/Desktop/git education/Programm languge/C#/Example/Example001_HelloConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
